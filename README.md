@@ -79,11 +79,12 @@ Me chamo Gabriel Castro, tenho 24 anos e sou natural de Minas Gerais. Atualmente
 ### 🎮 Mini Tetris
 
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/26gsgIkp9dTP8HcDK/giphy.gif" 
-    alt="Tetris Game" 
-    width="300"
-  />
+<img 
+  src="https://media.tenor.com/qCBnvxdU6LIAAAAC/tetris-game.gif" 
+  alt="Tetris Game" 
+  width="300"
+/>
+
 </p>
 
 <p align="center">
