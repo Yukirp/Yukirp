@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Castro, tenho 24 anos e sou natural de Minas Gerais. Atualmente, estou cursando Baxharelado em Sistemas de informação no IFNMG. Sou apaixonada por tecnologia, Filosofia, Psicologia e Mercado financeiro.
+Me chamo Gabriel Castro, tenho 24 anos e sou natural de Minas Gerais. Atualmente, estou cursando Bacharelado em Sistemas de informação no IFNMG. Sou apaixonada por tecnologia, filosofia, psicologia e mercado financeiro.
 
 <p align="left">
     <a href="https://www.instagram.com/oogabrielcastro/" target="_blank">
@@ -54,6 +54,9 @@ Me chamo Gabriel Castro, tenho 24 anos e sou natural de Minas Gerais. Atualmente
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
