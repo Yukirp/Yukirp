@@ -97,3 +97,13 @@ Me chamo Gabriel Castro, tenho 24 anos e sou natural de Minas Gerais. Atualmente
     />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github-contributions.vercel.app/api/tetris?username=Yukirp" target="_blank">
+    <img 
+      alt="Jogar Tetris com minhas contribuições" 
+      src="https://img.shields.io/badge/Tetris%20do%20GitHub-🟩%20Contribuições-2ea44f?style=for-the-badge"
+    />
+  </a>
+</p>
+
