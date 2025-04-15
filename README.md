@@ -78,32 +78,3 @@ Me chamo Gabriel Castro, tenho 24 anos e sou natural de Minas Gerais. Atualmente
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukirp&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-### 🎮 Mini Tetris
-
-<p align="center">
-<img 
-  src="https://media.tenor.com/qCBnvxdU6LIAAAAC/tetris-game.gif" 
-  alt="Tetris Game" 
-  width="300"
-/>
-</p>
-
-<p align="center">
-  <a href="https://tetris.com/play-tetris" target="_blank">
-    <img 
-      alt="Jogar Tetris" 
-      src="https://img.shields.io/badge/Jogar%20Tetris-🕹️-purple?style=for-the-badge"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github-contributions.vercel.app/api/tetris?username=Yukirp" target="_blank">
-    <img 
-      alt="Jogar Tetris com minhas contribuições" 
-      src="https://img.shields.io/badge/Tetris%20do%20GitHub-🟩%20Contribuições-2ea44f?style=for-the-badge"
-    />
-  </a>
-</p>
-
