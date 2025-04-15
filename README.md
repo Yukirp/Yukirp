@@ -79,10 +79,3 @@ Me chamo Gabriel Castro, tenho 24 anos e sou natural de Minas Gerais. Atualmente
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/1/13/Tetris_1989.gif" 
-    alt="Tetris funcionando no GitHub" 
-    width="300"
-/>
-</p>
