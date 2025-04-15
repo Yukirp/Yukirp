@@ -78,3 +78,12 @@ Me chamo Gabriel Castro, tenho 24 anos e sou natural de Minas Gerais. Atualmente
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukirp&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://media.tenor.com/qCBnvxdU6LIAAAAC/tetris-game.gif" 
+    alt="Tetris Game" 
+    width="300"
+/>
+</p>
+
