@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Pentatonic King</title>
+    <link rel="stylesheet" href="style.css?v=20260401d" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <main id="app">
+      <section id="ui" aria-label="Configuração do jogo">
+        <h1 class="title">Pentatonic King</h1>
+        <p class="subtitle">
+          Toque sua guitarra/violão para controlar os saltos na torre.
+        </p>
+
+        <div class="menu">
+          <label class="menu-row" for="bgMusicInput">
+            <span class="label">Música de fundo</span>
+            <input id="bgMusicInput" type="file" accept="audio/*" />
+          </label>
+
+          <label class="menu-row" for="testMode">
+            <span class="label">Controle</span>
+            <span class="toggle-wrap">
+              <input id="testMode" type="checkbox" />
+              <span>Modo teste (teclado)</span>
+            </span>
+          </label>
+
+          <label class="menu-row" for="songKey">
+            <span class="label">Tonalidade</span>
+            <select id="songKey">
+              <option value="C">C</option>
+              <option value="C#">C#</option>
+              <option value="D">D</option>
+              <option value="D#">D#</option>
+              <option value="E">E</option>
+              <option value="F">F</option>
+              <option value="F#">F#</option>
+              <option value="G">G</option>
+              <option value="G#">G#</option>
+              <option value="A" selected>A</option>
+              <option value="A#">A#</option>
+              <option value="B">B</option>
+            </select>
+          </label>
+
+          <label class="menu-row" for="scaleType">
+            <span class="label">Pentatônica</span>
+            <select id="scaleType">
+              <option value="minor" selected>Menor</option>
+              <option value="major">Maior</option>
+            </select>
+          </label>
+
+          <p class="menu-note">
+            Modo teste: acerte a nota da Proxima plataforma; 0 derruba.
+          </p>
+        </div>
+
+        <button id="startButton" type="button">Iniciar + Ativar Microfone</button>
+        <p id="status">Escolha a música e clique em iniciar.</p>
+      </section>
+
+      <section id="game-container" aria-label="Área do jogo"></section>
+    </main>
+
+    <script src="phaser.min.js?v=3.80.1-local"></script>
+    <script type="module" src="main.js?v=20260401m"></script>
+  </body>
+</html>
